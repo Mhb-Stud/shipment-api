@@ -1,0 +1,7 @@
+django
+celery
+djangorestframework
+django-celery-beat
+redis
+django-redis
+aiohttp
